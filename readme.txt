@@ -1,0 +1,2 @@
+1. If we run [git push --set-upstream origin master], it will only push master branch. If you have other branch, then it wont push.
+2. Now, you will see this in feature/print-hello-world, but not in master.
